@@ -1,8 +1,10 @@
 # Credit_Card_Analysis_Dashboard
 Project Overview
+
 This project focuses on building an interactive and insightful Credit Card Transaction Dashboard using Power BI and SQL databases. The goal is to analyze customer spending behavior, identify key trends, and help businesses make data-driven decisions. By using descriptive and predictive analysis, the dashboard uncovers patterns in transaction data, customer demographics, and financial metrics to improve customer service and reduce operational risks.
 
 How It Works
+
 Data Collection & Processing:
 
 Customer and transaction data was imported from CSV files into a SQL database.
