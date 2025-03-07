@@ -6,7 +6,6 @@ This project focuses on building an interactive and insightful Credit Card Trans
 How It Works
 
 Data Collection & Processing:
-
 Customer and transaction data was imported from CSV files into a SQL database.
 Created structured tables (cc_detail1 & cust_detail1) to store transaction details, credit limits, and customer demographics.
 Used SQL COPY commands to efficiently load and update data.
@@ -15,8 +14,8 @@ Data Analysis & Dashboard Development:
 Power BI was used to connect with SQL and visualize transaction trends.
 DAX (Data Analysis Expressions) formulas were implemented to create custom measures like revenue, customer age groups, and transaction patterns.
 Performed Week-over-Week (WoW) analysis to track revenue fluctuations and customer engagement.
-Key Findings & Insights:
 
+Key Findings & Insights:
 Revenue increased by 28.8% in the latest week (Dec 31st).
 Total transaction value reached $46M with a strong 57.5% activation rate.
 Male customers contributed $31M in revenue, while female customers contributed $26M.
